@@ -1,7 +1,1 @@
-libnss3
-libxss1
-libappindicator3-1
-fonts-liberation
-xdg-utils
-libatk-bridge2.0-0
-libgtk-3-0
+chromium
